@@ -92,6 +92,11 @@ a:hover {
 .linkedin {
   width: 30px;
 }
+
+.instagram {
+  width: 30px;
+}
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
